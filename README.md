@@ -1,2 +1,2 @@
-# xCioacaCheats
-Compilatie de coduri pentru diferite jocuri
+# xCioacaCheats CSGO
+Compilation of CSGO cheats 
