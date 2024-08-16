@@ -1,2 +1,4 @@
 # xCioacaCheats
-Compilatie de coduri pentru diferite jocuri
+Compilation of multiple cheats
+
+Discord server https://discord.gg/dpmhHrWHSu
